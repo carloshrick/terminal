@@ -1,0 +1,7 @@
+iniciando o gerenciado de pacotes -> npm init -y
+instalando o typescript no projeto -> npm i typescript --save-dev
+instalando biblioteca para capturar valores no console -> npm i readline-sync --save-dev
+instalando dependencia de tipos do js para ts -> npm i @types/node --save-dev
+criando transpilação do arquivo TS para JS -> npx tsc nome_arquivo.ts
+rodando o arquivo criado -> node nome_arquivo.js
+instalando compilador -> npm i tsx
